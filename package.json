@@ -1,19 +1,8 @@
 {
-  "name": "Scrim-s0903nuqqg",
-  "description": "https://v2.scrimba.com/learn-react-c0e/~013",
-  "scripts": {
-    "watch": "webpack -w",
-    "build": "webpack"
-  },
+  "name": "React-info-clone",
+  "version": "1.0.0",
   "dependencies": {
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "webpack": "^2.0"
-  },
-  "devDependencies": {
-    "babel-core": "^6.0",
-    "babel-loader": "^7.0",
-    "babel-preset-env": "*",
-    "babel-preset-react": "*"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
